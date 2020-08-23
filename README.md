@@ -5,7 +5,7 @@
 - [SVG and canvas mashed together to make this map](https://roadtolarissa.com/hurricane/)
 
 ## React
-- [25 React projects](http://sean-smith.me/assets/portfolio/25-react-projects/index.html)
+- [25 React projects](https://sean-smith.surge.sh/assets/portfolio/25-react-projects/index.html)
 
 ## D3
 - [Smoothly animate thousand of points with HTML5 canvas and D3](https://bocoup.com/blog/smoothly-animate-thousands-of-points-with-html5-canvas-and-d3)
